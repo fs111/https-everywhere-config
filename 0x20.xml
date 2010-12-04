@@ -1,0 +1,6 @@
+<ruleset name="whitespace">
+  <target host="www.0x20.be" />
+  <target host="0x20.be" />
+  <rule from="^http://(www\.)?0x20\.be/" to="https://0x20.be/"/>
+</ruleset>
+

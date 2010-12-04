@@ -1,0 +1,8 @@
+config files for the HTTPS Everywhere firefox extension [0] by the eff [1] to enforce https on sites I use.
+
+The files where made following the howto found under [2]
+
+--
+[0] https://www.eff.org/https-everywhere
+[1] https://eff.org
+[2] https://www.eff.org/https-everywhere/rulesets

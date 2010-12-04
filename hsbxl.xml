@@ -1,0 +1,6 @@
+<ruleset name="hsbxl">
+  <target host="www.hackerspace.be" />
+  <target host="hackerspace.be" />
+  <rule from="^http://(www\.)?hackerspace\.be/" to="https://hackerspace.be/"/>
+</ruleset>
+
