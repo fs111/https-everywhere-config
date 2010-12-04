@@ -1,0 +1,6 @@
+<ruleset name="flattr">
+  <target host="www.flattr.com" />
+  <target host="flattr.com" />
+  <rule from="^http://(www\.)?flattr\.com/" to="https://flattr.com/"/>
+</ruleset>
+
