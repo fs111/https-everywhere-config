@@ -1,0 +1,6 @@
+<ruleset name="ccc-event">
+  <target host="events.ccc.de" />
+  <target host="events.ccc.de" />
+  <rule from="http://events\.ccc\.de/" to="https://events.ccc.de/"/>
+</ruleset>
+
