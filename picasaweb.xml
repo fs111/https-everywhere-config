@@ -1,0 +1,4 @@
+<ruleset name="picasaweb">
+  <target host="google.com" />
+  <rule from="^http://picasaweb\.google\.com" to="https://picasaweb.google.com"/>
+</ruleset>
