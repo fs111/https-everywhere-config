@@ -1,0 +1,7 @@
+<!-- infinite redirect issue
+<ruleset name="linkedin">
+  <target host="linkedin.com" />
+  <target host="www.linkedin.com" />
+  <rule from="^http://(www\.)?linkedin\.com" to="https://linkedin.com"/>
+</ruleset>
+-->
