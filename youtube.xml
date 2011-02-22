@@ -1,0 +1,7 @@
+<!-- certificate domain issue
+<ruleset name="youtube">
+  <target host="youtube.com" />
+  <target host="www.youtube.com" />
+  <rule from="^http://(www\.)?youtube\.com" to="https://youtube.com"/>
+</ruleset>
+-->
